@@ -1,0 +1,7 @@
+Script started on 2024-01-15 15:02:25+03:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="204" LINES="46"]
+[?2004h]0;alexey@UbuntuOTUS: ~/DZ13[01;32malexey@UbuntuOTUS[00m:[01;34m~/DZ13[00m$ curl ifconfig.mesudo openvpn --config vpn.ovpn --daemon[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd ..[Ksudo docker push alexeydukhnovsky/dzdocker:dzdocker_image[14P alexeydukhnovsky/dzdockers[Ktag dzdocker_image alexeydukhnovsky/dzdocker[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[5P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[32Pcurl localhost:8081sudo docker run -d --name dzdocker_container1 -p 8081:80 dzdocker_image[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccurl localhost:8081[K
+[?2004lOtus home work docker!!!
+[?2004h]0;alexey@UbuntuOTUS: ~/DZ13[01;32malexey@UbuntuOTUS[00m:[01;34m~/DZ13[00m$ exit
+[?2004lexit
+
+Script done on 2024-01-15 15:02:37+03:00 [COMMAND_EXIT_CODE="0"]
